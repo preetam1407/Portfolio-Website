@@ -1,0 +1,22 @@
+<svg width="270" height="36" viewBox="0 0 270 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name {
+      font-family: 'sans-serif';
+        font-weight: bold;
+        fill: #FFFFFF; 
+    }
+    .sirname{
+        font-family: 'sans-serif';
+        font-weight: 500;
+        fill: #F0F0F0;
+    }
+    .accent {
+      fill: #F13024;
+    }
+  </style>
+  <text x="0" y="29" class="name" font-size="32">Preetam 
+    <tspan class = "sirname" >Chhimpa</tspan>
+  </text>
+   <rect x="248" y="23" width="7" height="7" class="accent"/>
+   
+</svg>
